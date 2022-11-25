@@ -1,0 +1,45 @@
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll.config
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.xml
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.xml
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CopyComplete
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\finalExit_Camp_Nagarro\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll.config
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.pdb
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.xml
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.xml
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CopyComplete
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\abhijeetsingh02\Desktop\FinalTest\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.pdb
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\02_Bussiness_Logic_Layer.pdb
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.dll
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.dll
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.pdb
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\03_Data_Access_Layer.dll.config
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.pdb
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\AutoMapper.xml
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\bin\Debug\EntityFramework.xml
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.csproj.CopyComplete
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.dll
+C:\Users\mayankgoel\Downloads\Abhijeet_FinalTest (1)\Abhijeet_FinalTest\02_Bussiness_Logic_Layer\obj\Debug\02_Bussiness_Logic_Layer.pdb
